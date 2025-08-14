@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c-cpp/cpp/STL/algorithm 라이브러리.md",
+                "file": "c-cpp/cpp/Modern C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "algorithm 라이브러리"
+              "title": "Modern C++"
             }
           }
         ]
@@ -170,11 +170,13 @@
   },
   "active": "6527544cca11b5fa",
   "lastOpenFiles": [
+    "c-cpp/cpp/함수 객체.md",
+    "c-cpp/cpp/Modern C++.md",
+    "c-cpp/cpp/STL/algorithm 라이브러리.md",
+    "c-cpp/cpp/STL/STL - others.md",
     "c-cpp/cpp/modern_cpp",
     "c-cpp/cpp/ㅡㅐㄱㅇ두.md",
-    "c-cpp/cpp/STL/algorithm 라이브러리.md",
     "c-cpp/cpp/STL/list 직접 구현.md",
-    "c-cpp/cpp/STL/STL - others.md",
     "c-cpp/cpp/STL/vector - push_back vs emplace_back.md",
     "c-cpp/cpp/STL/STL - vector.md",
     "c-cpp/c/매크로와 선행처리기.md",
