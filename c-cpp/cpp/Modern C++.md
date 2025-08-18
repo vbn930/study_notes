@@ -14,7 +14,7 @@ template 그리고 auto 같이 타입을 컴파일 단계에서 자동으로 추
 
 nullptr은 단순한 정수 값이 아닌 하나의 객체이다. 아직 할당되지 않은 포인터에 nullptr을 대입해서 해당 값이 확실하게 빈 값이라는 것을 표시 할 수 있게 되었다. 
 ## using 
-Mordern C++에서 using 키워드는 typedef의 문제점을 해결하기 위한 문법으로 등장 하였다. typedef는 를 사용하여 타입을 재정의 하게되면, 비교적 해석하기 힘들고 직관적이지 않다는 단점이 있다. 하지만 using을 사용하게 되면, using ID = int 와 같이 직관적으로 이해하기 편한 코드를 작성 할 수 있다. 
+Modern C++에서 using 키워드는 typedef의 문제점을 해결하기 위한 문법으로 등장 하였다. typedef는 를 사용하여 타입을 재정의 하게되면, 비교적 해석하기 힘들고 직관적이지 않다는 단점이 있다. 하지만 using을 사용하게 되면, using ID = int 와 같이 직관적으로 이해하기 편한 코드를 작성 할 수 있다. 
 
 또한 typedef과 템플릿을 함께 사용하게 된다면, typedef로는 불가능한 템플릿 별칭을 선언 할 수 있다. 템플릿 별칭을 사용하여, using SmartPointer = std::unique_ptr<T, MyDeleter> 와 같이 선언 한 후, 사용 할 수 있다.
 ## enum class
