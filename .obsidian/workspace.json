@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game-server-lib/멀티스레드/쓰레드의 공유 데이터 동기화.md",
+                "file": "game-server-lib/멀티스레드/Lock 구현.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "쓰레드의 공유 데이터 동기화"
+              "title": "Lock 구현"
             }
           }
         ]
@@ -173,6 +173,7 @@
   "lastOpenFiles": [
     "game-server-lib/멀티스레드/쓰레드의 생성.md",
     "game-server-lib/멀티스레드/쓰레드의 공유 데이터 동기화.md",
+    "game-server-lib/멀티스레드/Lock 구현.md",
     "c-cpp/cpp/Modern C++.md",
     "game-server-lib/멀티스레드",
     "game-server-lib",
