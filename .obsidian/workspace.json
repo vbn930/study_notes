@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game-server-lib/멀티스레드/Lock 구현.md",
+                "file": "algorithm/Algorithm - Brute Force.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lock 구현"
+              "title": "Algorithm - Brute Force"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "a33ffb5037febbf1",
   "lastOpenFiles": [
-    "game-server-lib/멀티스레드/쓰레드의 생성.md",
+    "algorithm/Big-O notation.md",
+    "algorithm/Algorithm - Brute Force.md",
+    "Pasted image 20250914161807.jpg",
     "game-server-lib/멀티스레드/쓰레드의 공유 데이터 동기화.md",
+    "algorithm",
+    "game-server-lib/멀티스레드/쓰레드의 생성.md",
     "game-server-lib/멀티스레드/Lock 구현.md",
     "c-cpp/cpp/Modern C++.md",
     "game-server-lib/멀티스레드",
